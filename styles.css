@@ -35,8 +35,9 @@ body {
   margin: 15px 0 5px 0;
   font-size: 16px;
 }
-#img{
+img{
   max-width: 100%;
+  display: block;
 }
 .tribute-info{
   font-size: 16px;
